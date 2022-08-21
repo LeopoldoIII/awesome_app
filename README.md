@@ -1,6 +1,6 @@
 # awesome_app
 
-A new Flutter project.
+A new Flutter project following [this tutorial](https://www.youtube.com/watch?v=P2IGQT3BZQo)
 
 ## Getting Started
 
